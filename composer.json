@@ -1,8 +1,8 @@
 {
-    "name": "tekintian/php-htmlparser",
+    "name": "tekintian/phphtmlparser",
     "description": "html parser, PHP Simple HTML DOM Parser with namespace and PHP psr-4 compatible",
     "keywords": ["html", "dom",  "html perser", "php psr-4",  "simple"],
-    "homepage": "http://github.com/tekintian/php-htmlparser",
+    "homepage": "http://github.com/tekintian/phphtmlparser",
    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
