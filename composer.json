@@ -1,0 +1,23 @@
+{
+    "name": "tekintian/php-htmlparser",
+    "description": "html parser, PHP Simple HTML DOM Parser with namespace and PHP psr-4 compatible",
+    "keywords": ["html", "dom",  "html perser", "php psr-4",  "simple"],
+    "homepage": "http://github.com/tekintian/php-htmlparser",
+   "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tekin",
+            "email": "tekintian@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "5.6"
+    },
+    "autoload": {
+        "psr-4": {
+         "tekintian\\phphtmlparser\\": "src/"
+        }
+    }
+}
